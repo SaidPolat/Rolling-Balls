@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shootable
+  - Score
+  - SpeedPU
+  - Score3
+  - HigherJumpPU
+  - SmallerSizePU
+  - BiggerSizePU
+  - Spike
+  - BasketRT
+  - Level2Trigger
+  - Button1
+  - Button2
+  - NewGameButton
+  - Puzzle3R
+  - Puzzle3G
+  - Puzzle3B
+  - QuitButton
+  - SettingsButton
+  - ScoreBoardButton
+  - SpikeTutorial2
+  - HealthPU
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Wall
+  - Lighting
+  - Ground
+  - Postprocessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Fire
+    uniqueID: 3804908061
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
